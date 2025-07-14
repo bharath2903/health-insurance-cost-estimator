@@ -17,7 +17,7 @@ A machine learning web application that predicts a person’s health insurance p
 
 ## 🚀 Live App
 
-👉 **https://bharath2903-health-insurance-cost-estimator.streamlit.app/**
+👉 [Streamlit App](https://bharath2903-health-insurance-cost-estimator.streamlit.app/)
 
 ---
 
