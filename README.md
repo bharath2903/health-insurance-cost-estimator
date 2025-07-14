@@ -135,6 +135,6 @@ Model development was done in the [`ml_premium_prediction_rest_with_gr.ipynb`](n
 ## 🙋‍♂️ Author
 
 - **Bharath Srinivas**
-- [LinkedIn](https://www.linkedin.com/in/bharath-srinivas-286460344/) • [GitHub](https://github.com/bharath2903)
+- [LinkedIn](https://www.linkedin.com/in/bharath-srinivas-286460344/) 
 
 > Project built as part of the CodeBasics ML course.
